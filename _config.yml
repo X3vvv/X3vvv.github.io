@@ -81,15 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Zewen PAN"
-  avatar           : "fish-eyes-man.png"
+  avatar           : "fish-eyes-man.jpg"
   bio              : "Computer System, IoT"
-  location         : "Location"
+  location         : "HK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "Xavier3pun@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://blog.csdn.net/weixin_39591031?type=blog"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  csdn             : "https://blog.csdn.net/weixin_39591031?type=blog"
 
 # Reading Files
 include:
